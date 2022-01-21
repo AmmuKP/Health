@@ -1,0 +1,38 @@
+h1{
+  font-family: Lucida Handwriting, cursive;
+  text-align: center;
+}
+p{
+  font-family: Lucida Handwriting, cursive;
+  
+}
+h2{
+  text-align: center;
+  font-family: Lucida Handwriting, cursive;
+}
+#Food{
+  font-family: Times New Roman, serif;
+  font-size: 24;
+  text-align: center;
+}
+h3{
+  text-align: center;
+  font-family: Lucida Handwriting, cursive;
+}
+#Intro{
+  font-family: Lucida Handwriting, cursive;
+  text-align: center;
+}
+#Exercise{
+  font-family: Times New Roman, serif;
+  font-size: 24;
+  text-align: center; 
+}
+body{
+    background-color: darksalmon;
+}
+#Rest{
+  font-family: Times New Roman, serif;
+  font-size: 24;
+  text-align: center;
+}
